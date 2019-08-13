@@ -1,0 +1,36 @@
+{
+	"changelog": {
+		"currentversion": "2.5.5"
+	},
+	"settings": {
+		"showText": true,
+		"showVoice": true,
+		"showNews": true,
+		"showStore": true,
+		"showCategory": false,
+		"showForNormal": false,
+		"showAllowedRoles": true,
+		"showOverWrittenRoles": true,
+		"showAllowedUsers": true,
+		"showDeniedRoles": true,
+		"showDeniedUsers": true,
+		"showTopic": false,
+		"showChannelCategory": false,
+		"showVoiceUsers": false
+	},
+	"categorystatus": {
+		"467459228223930368": true,
+		"603571483037401099": true,
+		"516125324711297024": true,
+		"533153217119387658": true,
+		"603610004792016902": true,
+		"462026676088471553": true,
+		"559477128543076382": true,
+		"181970867549503489": true,
+		"518927823948218369": false,
+		"401167847876853762": true
+	},
+	"amounts": {
+		"hoverDelay": 0
+	}
+}
